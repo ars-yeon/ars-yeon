@@ -4,7 +4,7 @@
 
 <h3>🐬My SNS🐬</h2>
 
-[![Velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ars_yeon)](https://velog.io/@ars_yeon) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zosel7301@gmail.com)](mailto:zosel7301@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.instagram.com/sozi__1126)](https://www.instagram.com/sozi__1126)
+[![Velog](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ars_yeon)](https://velog.io/@ars_yeon) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zosel7301@gmail.com)](mailto:zosel7301@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sozi__1126)](https://www.instagram.com/sozi__1126)
 
 <br>
 <h3>🛠️Tech Stack🛠️</h2>
